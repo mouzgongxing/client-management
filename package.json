@@ -1,12 +1,23 @@
 {
-  "name": "client-management",
-  "version": "1.0.0",
+  "name": "client-management-attributes",
+  "version": "1.0.2",
   "description": "All useful tools for processing information of users and customers.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["client", "manager", "validation", "node", "backend", "treatment"],
+  "keywords": [
+    "client",
+    "manager",
+    "validation",
+    "node",
+    "backend",
+    "treatment"
+  ],
   "author": "Mateus Nicolau Gomes Fernandes",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusNGF/client-management.git"
+  }
 }

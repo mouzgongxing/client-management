@@ -1,5 +1,3 @@
-const value = require("./value");
-
 /**
  * Verifica o formato do Email
  * @param {String} email
