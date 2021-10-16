@@ -1,0 +1,12 @@
+{
+  "name": "client-management",
+  "version": "1.0.0",
+  "description": "All useful tools for processing information of users and customers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["client", "manager", "validation", "node", "backend", "treatment"],
+  "author": "Mateus Nicolau Gomes Fernandes",
+  "license": "ISC"
+}
